@@ -32,6 +32,22 @@ Python Nmap Scan 2:  <br/>
 <img src="https://imgur.com/MRtRfCq.png" height="80%" width="80%" alt="Python"/>
 <br />
 <br />
+Python printing 1:  <br/>
+<img src="https://imgur.com/zbLyAj6.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Python printing 2:  <br/>
+<img src="https://imgur.com/c2bteWj.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Python printing 3:  <br/>
+<img src="https://imgur.com/oVD02nD.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Python printing 4:  <br/>
+<img src="https://imgur.com/3wvzEZ5.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
 Python Variable 1:  <br/>
 <img src="https://imgur.com/H23lOQG.png" height="80%" width="80%" alt="Python"/>
 <br />
