@@ -48,6 +48,38 @@ Python printing 4:  <br/>
 <img src="https://imgur.com/3wvzEZ5.png" height="80%" width="80%" alt="Python"/>
 <br />
 <br />
+Python printing 5:  <br/>
+<img src="https://imgur.com/dKQmQek.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Python printing 6:  <br/>
+<img src="https://imgur.com/uz52TAl.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Python printing 7:  <br/>
+<img src="https://imgur.com/WbLkca2.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Python printing 8:  <br/>
+<img src="https://imgur.com/Ho23v4X.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Asking Questions With Python 1:  <br/>
+<img src="https://imgur.com/c3QYHSa.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Asking Questions With Python 2:  <br/>
+<img src="https://imgur.com/SQoEMm6.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Asking Questions With Python 3:  <br/>
+<img src="https://imgur.com/MFgqvBw.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Asking Questions With Python 4:  <br/>
+<img src="https://imgur.com/AHuLvGQ.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
 Python Variable 1:  <br/>
 <img src="https://imgur.com/H23lOQG.png" height="80%" width="80%" alt="Python"/>
 <br />
