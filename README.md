@@ -94,7 +94,16 @@ Python Variable 3:  <br/>
 <br />
 Python Variable 4:  <br/>
 <img src="https://imgur.com/YwlD4LP.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Parameter Unpacking Variable 1 Line Arguments:  <br/>
+<img src="https://imgur.com/6pbT4ml.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Parameter Unpacking Variable 2 Line Arguments:  <br/>
+<img src="https://imgur.com/ndK7S1n.png" height="80%" width="80%" alt="Python"/>
 </p>
+
 
 <!--
  ```diff
