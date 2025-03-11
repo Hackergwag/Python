@@ -102,6 +102,14 @@ Parameter Unpacking Variable 1 Line Arguments:  <br/>
 <br /> 
 Parameter Unpacking Variable 2 Line Arguments:  <br/>
 <img src="https://imgur.com/ndK7S1n.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Parameter Unpacking Variable 3 combination of input(user) and argv(commadline input):  <br/>
+<img src="https://imgur.com/BHHdR40.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Parameter Unpacking Variable 4 combination of input(user) and argv(commadline input):  <br/>
+<img src="https://imgur.com/ZnV905t.png" height="80%" width="80%" alt="Python"/>
 </p>
 
 
