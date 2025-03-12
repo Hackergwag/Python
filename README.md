@@ -110,7 +110,16 @@ Parameter Unpacking Variable 3 combination of input(user) and argv(commadline in
 <br /> 
 Parameter Unpacking Variable 4 combination of input(user) and argv(commadline input):  <br/>
 <img src="https://imgur.com/ZnV905t.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Parameter Unpacking Variable 5 combination of input(user) and argv(commadline input):  <br/>
+<img src="https://imgur.com/TzvsAFy.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Parameter Unpacking Variable 6 combination of input(user) and argv(commadline input):  <br/>
+<img src="https://imgur.com/8WY7eGt.png" height="80%" width="80%" alt="Python"/>
 </p>
+
 
 
 <!--
