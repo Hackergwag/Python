@@ -118,9 +118,91 @@ Parameter Unpacking Variable 5 combination of input(user) and argv(commadline in
 <br /> 
 Parameter Unpacking Variable 6 combination of input(user) and argv(commadline input):  <br/>
 <img src="https://imgur.com/8WY7eGt.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Reading Files In Python 1:  <br/>
+<img src="https://imgur.com/lzHi3K8.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Reading Files In Python 2:  <br/>
+<img src="https://imgur.com/qDHrICx.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Reading Files In Python 3:  <br/>
+<img src="https://imgur.com/Qf72CXp.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Reading and Writing Files In Python 1:  <br/>
+<img src="https://imgur.com/rjO4vCZ.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Reading and Writing Files In Python 2:  <br/>
+<img src="https://imgur.com/SqltBVv.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Reading and Writing Files In Python 3:  <br/>
+<img src="https://imgur.com/Kh9zq8x.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Copying a File to another Files In Python 1:  <br/>
+<img src="https://imgur.com/jSmat7n.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Copying a File to another Files In Python 2:  <br/>
+<img src="https://imgur.com/hmN6Bg1.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Arguments In Python 1:  <br/>
+<img src="https://imgur.com/L2WgmCO.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Arguments In Python 2:  <br/>
+<img src="https://imgur.com/fep1FIe.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Arguments In Python 3:  <br/>
+<img src="https://imgur.com/7ciALbu.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Arguments In Python 4:  <br/>
+<img src="https://imgur.com/fW7dmgG.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Files In Python 1:  <br/>
+<img src="https://imgur.com/Hnhs6RX.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Files In Python 2:  <br/>
+<img src="https://imgur.com/JFheFjh.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Files In Python 3:  <br/>
+<img src="https://imgur.com/gbi153F.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Files In Python 4:  <br/>
+<img src="https://imgur.com/vsNIjSy.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br /> 
+Functions and Files In Python 5:  <br/>
+<img src="https://imgur.com/fQKBgvL.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Files In Python 6:  <br/>
+<img src="https://imgur.com/yD2opD2.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Files In Python 7:  <br/>
+<img src="https://imgur.com/WPB1OwG.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Files In Python 8:  <br/>
+<img src="https://imgur.com/czWzPXO.png" height="80%" width="80%" alt="Python"/>
+<br />
+<br />
+Functions and Files In Python 9:  <br/>
+<img src="https://imgur.com/weO5xT3.png" height="80%" width="80%" alt="Python"/>
 </p>
-
-
 
 <!--
  ```diff
